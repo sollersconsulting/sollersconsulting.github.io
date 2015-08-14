@@ -2,4 +2,4 @@
 This repository is used to host websites available at [http://sollersconsulting.github.io/](http://sollersconsulting.github.io/).
 
 List of websites:
- - [http://sollersconsulting.github.io/codepot](Codepot 2015)- a website with materials for a workshop on TypeScript at Codepot 2015
+ - [Codepot 2015](http://sollersconsulting.github.io/codepot) - a website with materials for a workshop on TypeScript at Codepot 2015
